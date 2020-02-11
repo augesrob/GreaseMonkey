@@ -4,8 +4,11 @@ Get GreaseMonkey
 - [Google Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
 
 Updated Scripts
-- Facebook-AutoPoke
-- More To Come
+- [x] Facebook-AutoPoke
+- [] Disable AutoPlay Youtube
+- [] Ad Skipper Youtube
+- [] Facebook-AutoFollower 
+- More to come
 
 # Facebook-AutoPoke
 - Last updated 2/10/2020
