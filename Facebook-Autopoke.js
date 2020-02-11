@@ -5,8 +5,8 @@
 // @version        Last Updated 2/10/2020
 // @include        http://facebook.com/pokes
 // @include        https://www.facebook.com/pokes/?notif_t=poke
-// @updateURL      https://github.com/augesrob/GreaseMonkey/blob/master/Facebook-Autopoke.js
-// ==/UserScript== 
+// @namespace https://greasyfork.org/users/443677
+// ==/UserScript==  
 
 var deSuite = 0;
 var noPokes = 0;
@@ -84,4 +84,3 @@ nbPokesDiv.style.fontSize = "0.7em";
 document.body.appendChild(nbPokesDiv);
 
 poke();
-
