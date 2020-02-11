@@ -1,7 +1,7 @@
 # GreaseMonkey
 Get GreaseMonkey
-- [FireFox] (https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
-- [Google Chrome] (https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
+- [FireFox](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
+- [Google Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
 
 Updated Scripts
 - Facebook-AutoPoke
