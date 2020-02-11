@@ -1,10 +1,11 @@
 // ==UserScript== 
 // @name           Facebook Autopoke
 // @author         augesrob
-// @description    Automatically pokes back people listed on your home page.
-// @version        1.0.0 Beta
+// @description    Automatically pokes back people listed on your home page. Make sure to be on this page https://www.facebook.com/pokes/?notif_t=poke
+// @version        Last Updated 2/10/2020
 // @include        http://facebook.com/pokes
-// Last Updated: 2/10/2020
+// @include        https://www.facebook.com/pokes/?notif_t=poke
+// @updateURL      https://github.com/augesrob/GreaseMonkey/blob/master/Facebook-Autopoke.js
 // ==/UserScript== 
 
 var deSuite = 0;
