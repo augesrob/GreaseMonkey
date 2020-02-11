@@ -9,4 +9,5 @@ Updated Scripts
 
 # Facebook-AutoPoke
 - Last updated 2/10/2020
-[Start Poker Here](https://www.facebook.com/pokes/?notif_t=poke)
+- [Install Script](https://github.com/augesrob/GreaseMonkey/blob/master/Facebook-Autopoke.js)
+- [Start Poker Here](https://www.facebook.com/pokes/?notif_t=poke)
