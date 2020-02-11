@@ -5,9 +5,9 @@ Get GreaseMonkey
 
 Updated Scripts
 - [x] Facebook-AutoPoke
-- [] Disable AutoPlay Youtube
-- [] Ad Skipper Youtube
-- [] Facebook-AutoFollower 
+- [ ] Disable AutoPlay Youtube
+- [ ] Ad Skipper Youtube
+- [ ] Facebook-AutoFollower 
 - More to come
 
 # Facebook-AutoPoke
